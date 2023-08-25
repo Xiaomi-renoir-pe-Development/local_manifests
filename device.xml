@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Xiaomi-renoir-Development" fetch="https://github.com/Xiaomi-renoir-pe-Development" revision="lineage-19.1" />
+  <remote name="Xiaomi-renoir-Development" fetch="https://github.com/Xiaomi-renoir-pe-Development" revision="thirteen" />
   
   
   
